@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Duarte</h1>
 
-- 👯 I’m looking to collaborate on **improving people's life with technology**
-
-- 👨‍💻 All of my projects are available at [https://guilherme0893.github.io/portfolio/](https://guilherme0893.github.io/portfolio/)
-
 - 📫 How to reach me **guilhermeduarte008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
